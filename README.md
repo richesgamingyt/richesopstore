@@ -1,0 +1,2 @@
+# richesopstore
+game downloading store
